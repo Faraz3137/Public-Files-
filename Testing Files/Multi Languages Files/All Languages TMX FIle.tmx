@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="MyTranslationTool" creationtoolversion="1.0" segtype="sentence" o-tmf="tmx" adminlang="en-US" srclang="en-US" datatype="plaintext"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Segment 2:</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجزء الثاني:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the fiery self-reflection, generals of ambition and procrastination strategize, with ambition in the armour of determination clashing with the elusive tactics of procrastination, leaving the battlefield of the mind in a state of perpetual uncertainty.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Nell'ardente auto-riflessione, i generali dell'ambizione e della procrastinazione strategizzano, con l'ambizione nell'armatura della determinazione che si scontra con le tattiche sfuggenti della procrastinazione, lasciando il campo di battaglia della mente in uno stato di perpetua incertezza.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في التأمل الذاتي الناري، يضع جنرالات الطموح والتسويف الاستراتيجيات، حيث يصطدم الطموح في درع التصميم مع تكتيكات التسويف المراوغة، تاركين ساحة معركة العقل في حالة من عدم اليقين الدائم.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>在激烈的自我反省中，野心和拖延的将军们制定战略，以决心为盔甲的野心与拖延的难以捉摸的战术发生冲突，使思想的战场处于永远的不确定状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Avoid over truncating or severely reducing reading speed in order to include both dialogue</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>避免过度截断或严重降低阅读速度，以便同时包含对话</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Evitare di troncare o ridurre drasticamente la velocità di lettura per includere entrambi i dialoghi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the quiet recesses of the mind, a war was brewing—a silent battle fought on the landscapes of thoughts and emotions.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في أعماق العقل الهادئة كانت هناك حرب تختمر - معركة صامتة تدور رحاها على مناظر الأفكار والعواطف.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the ensuing silence, the mind becomes a transformed battlefield—a landscape scarred by the echoes of internal struggles, testifying to the resilience of the human spirit in navigating the complexities of the psyche.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Nel silenzio che ne deriva, la mente diventa un campo di battaglia trasformato, un paesaggio segnato dagli echi delle lotte interne, che testimoniano la resilienza dello spirito umano nel navigare le complessità della psiche.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>وفي الصمت الذي يعقب ذلك، يصبح العقل ساحة معركة متغيرة - مشهد مشوه بأصداء الصراعات الداخلية، يشهد على مرونة الروح البشرية في التعامل مع تعقيدات النفس.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>在随后的沉默中，心灵变成了一个战场——一片被内心斗争的回声所伤痕累累的景观，证明了人类精神在驾驭心理复杂性时的韧性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The fields of anxiety trembled as doubt-laden cannons roared, sending tremors through the valleys of confidence.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>ارتجفت حقول القلق عندما زأرت المدافع المحملة بالشكوك، فأرسلت الهزات عبر وديان الثقة.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Segment 6:</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجزء السادس:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The tides of emotion crash against the shores of logic, pulling the thoughts into an abyss of uncertainty, where every choice feels like a gamble.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>تتلاطم أمواج العاطفة ضد شواطئ المنطق، جاذبة الأفكار إلى هاوية من عدم اليقين، حيث يشعر كل اختيار وكأنه رهان.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the midst of the mental storm, reason and emotion engage in a deadly duel, each striving for dominance in the battlefield of the mind.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في وسط العاصفة العقلية، يدخل العقل والعاطفة في مبارزة قاتلة، كل منهما يسعى للهيمنة على ساحة المعركة في العقل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Through the fog of confusion, clarity emerges like a beacon, guiding the way through the turmoil.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>من خلال ضباب الارتباك، يظهر الوضوح مثل الشعاع، موجهًا الطريق عبر الاضطراب.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the battle for control rages, the mind becomes a fortress of reflection, where the wounds of past conflicts are tended to, and strategies for the future are forged.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>بينما تشتد معركة السيطرة، يصبح العقل حصنًا للتأمل، حيث يتم الاعتناء بجروح الصراعات السابقة، ويتم تشكيل استراتيجيات المستقبل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the echoes of past failures, the lessons of resilience are carved, guiding the way forward as new battles await on the horizon.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في أصداء الفشل الماضي، تُنقش دروس المرونة، موجهة الطريق إلى الأمام بينما تنتظر المعارك الجديدة على الأفق.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The heart, heavy with uncertainty, beats like a drum, guiding the body through the motions of life despite the confusion that clouds its path.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>القلب، المثقل بعدم اليقين، ينبض كطبول، موجهًا الجسد من خلال حركات الحياة على الرغم من الارتباك الذي يظلل طريقه.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the silence of introspection, the mind finds fragments of truth, scattered like stars across the vast expanse of the soul.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في صمت التأمل، يجد العقل شظايا من الحقيقة، متناثرة مثل النجوم عبر اتساع الروح.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the journey unfolds, each step is a whisper of destiny, urging the traveler to move forward, despite the obstacles that lie ahead.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>بينما تنكشف الرحلة، كل خطوة هي همسة من القدر، تدفع المسافر للمضي قدمًا، رغم العوائق التي تكمن في الطريق.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mind, weary from the constant battle, seeks solace in moments of stillness, hoping to find peace amidst the chaos.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>العقل، المتعب من المعركة المستمرة، يبحث عن الراحة في لحظات السكون، آملاً في العثور على السلام وسط الفوضى.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the vast ocean of thought, the mind sails, searching for purpose in the waves of doubt that rise with every turn of the tide.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في المحيط الواسع للفكر، يبحر العقل، باحثًا عن الهدف في أمواج الشك التي ترتفع مع كل تحول في المد.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Even in the darkest hours, the soul finds strength, rising like a phoenix from the ashes of despair, ready to embrace the future.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>حتى في أحلك الساعات، يجد الروح القوة، تنهض كطائر الفينيق من رماد اليأس، جاهزة لاستقبال المستقبل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The winds of change are constant, shaping the landscape of the heart, but it is in the stillness of acceptance that true transformation occurs.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>رياح التغيير دائمة، تشكل مشهد القلب، لكن في سكون القبول يحدث التحول الحقيقي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Through the darkness of the night, the stars guide the soul, each one a beacon of hope, lighting the way through the unknown.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>من خلال ظلام الليل، توجه النجوم الروح، كل واحدة منها شعاع أمل، تنير الطريق عبر المجهول.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In every challenge lies the seed of growth, a chance to rise above the storm and embrace the beauty that comes from overcoming adversity.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في كل تحدٍ تكمن بذرة النمو، فرصة للارتفاع فوق العاصفة واحتضان الجمال الذي يأتي من التغلب على الصعاب.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The mind, a canvas of thought, paints the reality we live in, with each brushstroke adding to the masterpiece of our existence.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>العقل، لوحة من الفكر، يرسم الواقع الذي نعيش فيه، مع كل ضربة فرشاة تضيف إلى تحفة وجودنا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a quiet strength in vulnerability, a silent courage that allows the heart to open, despite the fear that seeks to close it off.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>هناك قوة هادئة في الضعف، شجاعة صامتة تسمح للقلب بالانفتاح، على الرغم من الخوف الذي يسعى لإغلاقه.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Through each moment of suffering, the soul learns the depths of resilience, emerging stronger, more determined to face whatever comes next.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>من خلال كل لحظة من المعاناة، يتعلم الروح أعماق الصمود، ليظهر أقوى وأكثر عزيمة لمواجهة ما سيأتي بعد.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Time, like a river, flows endlessly, carrying the past away while inviting the future to unfold in its endless current.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الزمن، مثل نهر، يتدفق بلا نهاية، حاملاً الماضي بعيدًا بينما يدعو المستقبل للانفتاح في تياره اللامتناهي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The heart's whispers are often louder than the loudest of voices, speaking truths that are felt rather than heard.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>همسات القلب غالبًا ما تكون أعلى من أعلى الأصوات، تتحدث عن الحقائق التي تُشعر بدلاً من أن تُسمع.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the dance of life, every step is a choice, every movement a chance to create harmony between the self and the world around us.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في رقص الحياة، كل خطوة هي اختيار، وكل حركة فرصة لخلق التناغم بين الذات والعالم من حولنا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The beauty of a sunset lies not only in the colors it paints across the sky, but in the quiet promise of a new dawn that follows.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>جمال غروب الشمس لا يكمن فقط في الألوان التي يرسمها عبر السماء، ولكن في الوعد الهادئ لفجر جديد يتبعه.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every person you meet is a mirror of something within yourself, reflecting parts of who you are and who you are yet to become.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>كل شخص تقابله هو مرآة لشيء في داخلك، يعكس أجزاءً من من أنت ومن ستصبحه بعد.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In silence, the soul speaks the loudest, offering its deepest truths and most profound wisdom.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في الصمت، يتحدث الروح بأعلى صوت، مقدماً أعماق حقائقه وأعمق حكمته.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Love, like the ocean, is vast and deep, a force of nature that transcends boundaries, connecting all things through its infinite embrace.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الحب، مثل البحر، واسع وعميق، قوة من الطبيعة تتجاوز الحدود، تربط كل الأشياء من خلال احتضانها اللامتناهي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the quiet moments, when the world fades away, we find the truth of our being, unencumbered by distractions, just pure existence.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في اللحظات الهادئة، عندما يتلاشى العالم، نجد حقيقة وجودنا، غير محملة بالتشويشات، فقط الوجود النقي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stars above are not just points of light, but reminders of the infinite possibilities that await when we look beyond the horizon of our own limitations.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>النجوم فوق ليست مجرد نقاط ضوء، بل تذكيرات بالاحتمالات اللانهائية التي تنتظرنا عندما نرى ما وراء أفق حدودنا الخاصة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the presence of nature, we are reminded of our own roots, the timeless connection between ourselves and the Earth.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في وجود الطبيعة، نتذكر جذورنا الخاصة، الاتصال الأبدي بيننا وبين الأرض.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The path to understanding begins with listening — not just with the ears, but with the heart, the soul, and the mind open to all that is.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>طريق الفهم يبدأ بالاستماع — ليس فقط بالأذنين، ولكن بالقلب، والروح، والعقل المنفتح على كل ما هو.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the depths of every challenge, there is a hidden opportunity for growth, waiting to be discovered by those brave enough to seek it.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في أعماق كل تحدٍ، هناك فرصة خفية للنمو، تنتظر من يكتشفها أولئك الشجعان بما يكفي للبحث عنها.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>True peace comes not from the absence of conflict, but from the ability to find stillness within, even in the most turbulent of times.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>السلام الحقيقي لا يأتي من غياب الصراع، بل من القدرة على العثور على السكون داخل النفس، حتى في أصعب الأوقات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every morning brings a new beginning, a chance to write a fresh chapter in the book of our lives, full of untold stories waiting to be lived.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>كل صباح يجلب بداية جديدة، فرصة لكتابة فصل جديد في كتاب حياتنا، مليء بالقصص غير المروية التي تنتظر أن تُعاش.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The beauty of a smile is not in its appearance, but in the warmth it carries, the connection it creates between souls.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>جمال الابتسامة ليس في مظهرها، بل في الدفء الذي تحمله، وفي الاتصال الذي تخلقه بين الأرواح.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hope is a quiet flame that burns even in the darkest of nights, illuminating the way for those who choose to see beyond their fears.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الأمل هو شعلة هادئة تحترق حتى في أحلك الليالي، تنير الطريق لأولئك الذين يختارون أن يروا ما وراء مخاوفهم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stars above are not just points of light, but reminders of the infinite possibilities that await when we look beyond the horizon of our own limitations.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>النجوم فوق ليست مجرد نقاط ضوء، بل تذكيرات بالاحتمالات اللانهائية التي تنتظرنا عندما نرى ما وراء أفق حدودنا الخاصة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the presence of nature, we are reminded of our own roots, the timeless connection between ourselves and the Earth.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في وجود الطبيعة، نتذكر جذورنا الخاصة، الاتصال الأبدي بيننا وبين الأرض.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The path to understanding begins with listening — not just with the ears, but with the heart, the soul, and the mind open to all that is.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>طريق الفهم يبدأ بالاستماع — ليس فقط بالأذنين، ولكن بالقلب، والروح، والعقل المنفتح على كل ما هو.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the depths of every challenge, there is a hidden opportunity for growth, waiting to be discovered by those brave enough to seek it.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في أعماق كل تحدٍ، هناك فرصة خفية للنمو، تنتظر من يكتشفها أولئك الشجعان بما يكفي للبحث عنها.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>True peace comes not from the absence of conflict, but from the ability to find stillness within, even in the most turbulent of times.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>السلام الحقيقي لا يأتي من غياب الصراع، بل من القدرة على العثور على السكون داخل النفس، حتى في أصعب الأوقات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every morning brings a new beginning, a chance to write a fresh chapter in the book of our lives, full of untold stories waiting to be lived.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>كل صباح يجلب بداية جديدة، فرصة لكتابة فصل جديد في كتاب حياتنا، مليء بالقصص غير المروية التي تنتظر أن تُعاش.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The beauty of a smile is not in its appearance, but in the warmth it carries, the connection it creates between souls.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>جمال الابتسامة ليس في مظهرها، بل في الدفء الذي تحمله، وفي الاتصال الذي تخلقه بين الأرواح.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hope is a quiet flame that burns even in the darkest of nights, illuminating the way for those who choose to see beyond their fears.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الأمل هو شعلة هادئة تحترق حتى في أحلك الليالي، تنير الطريق لأولئك الذين يختارون أن يروا ما وراء مخاوفهم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wisdom is not found in the answers, but in the questions we dare to ask, and the courage to seek the truth within them.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الحكمة لا توجد في الإجابات، بل في الأسئلة التي نتجرأ على طرحها، والشجاعة في البحث عن الحقيقة بداخلها.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When we embrace our differences, we open ourselves to a world of endless learning, where every perspective is a treasure waiting to be discovered.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>عندما نحتضن اختلافاتنا، نفتح أنفسنا لعالم من التعلم اللانهائي، حيث كل وجهة نظر هي كنز ينتظر أن يُكتشف.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Life is not about waiting for the storm to pass, but learning to dance in the rain and finding beauty in every drop.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الحياة ليست عن انتظار العاصفة لكي تمر، بل عن تعلم الرقص في المطر وإيجاد الجمال في كل قطرة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each soul is a story yet to be written, and every encounter is a chapter that adds depth to the narrative of our lives.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>كل روح هي قصة لم تُكتب بعد، وكل لقاء هو فصل يضيف عمقًا إلى السرد في حياتنا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The greatest journeys are not those that take us far from home, but those that take us deep within ourselves.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>أعظم الرحلات ليست تلك التي تأخذنا بعيدًا عن المنزل، بل تلك التي تأخذنا عميقًا داخل أنفسنا.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gratitude is not merely a feeling, but a way of seeing the world — through eyes that recognize the beauty in the smallest moments.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الامتنان ليس مجرد شعور، بل طريقة في رؤية العالم — من خلال عيون تدرك الجمال في أصغر اللحظات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The light of the stars is a reminder that no matter how dark the night, there is always light on the other side, waiting to be discovered.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>ضوء النجوم هو تذكير بأنه بغض النظر عن مدى ظلم الليل، هناك دائمًا ضوء في الجهة الأخرى، ينتظر أن يُكتشف.</seg>
+      </tuv>
+    </tu>
+</body>
+</tmx>

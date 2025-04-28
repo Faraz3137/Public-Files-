@@ -1,0 +1,5 @@
+When the user switches the language in an already translated document section, 
+the 'Translate Now' button does not appear. We need to hide the uploader if this 
+operation causes complications and add a 'Translate Another File' button. 
+When the user clicks on this button, a message should be displayed: 
+'Your current data will be lost, but the translated files will remain in the history.

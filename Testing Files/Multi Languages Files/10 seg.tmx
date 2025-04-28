@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="ChatGPT" creationtoolversion="1.0" datatype="plaintext" segtype="sentence" adminlang="en" srclang="en"/>
+  <body>
+    <!-- Entry 1 -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hello, how are you?</seg>
+      </tuv>
+      <tuv lang="es-ES">
+        <seg>Hola, ¿cómo estás?</seg>
+      </tuv>
+      <tuv lang="fr-FR">
+        <seg>Bonjour, comment ça va ?</seg>
+      </tuv>
+      <tuv lang="de-DE">
+        <seg>Hallo, wie geht's?</seg>
+      </tuv>
+      <tuv lang="it-IT">
+        <seg>Ciao, come stai?</seg>
+      </tuv>
+      <tuv lang="pt-PT">
+        <seg>Olá, como vai?</seg>
+      </tuv>
+      <tuv lang="ru-RU">
+        <seg>Привет, как ты?</seg>
+      </tuv>
+      <tuv lang="ja-JP">
+        <seg>こんにちは、お元気ですか？</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>你好，你好吗？</seg>
+      </tuv>
+    </tu>
+
+    <!-- Entry 2 -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is your name?</seg>
+      </tuv>
+      <tuv lang="es-ES">
+        <seg>¿Cuál es tu nombre?</seg>
+      </tuv>
+      <tuv lang="fr-FR">
+        <seg>Comment tu t'appelles ?</seg>
+      </tuv>
+      <tuv lang="de-DE">
+        <seg>Wie heißt du?</seg>
+      </tuv>
+      <tuv lang="it-IT">
+        <seg>Come ti chiami?</seg>
+      </tuv>
+      <tuv lang="pt-PT">
+        <seg>Qual é o seu nome?</seg>
+      </tuv>
+      <tuv lang="ru-RU">
+        <seg>Как тебя зовут?</seg>
+      </tuv>
+      <tuv lang="ja-JP">
+        <seg>あなたの名前は何ですか？</seg>
+      </tuv>
+      <tuv lang="zh-CN">
+        <seg>你叫什么名字？</seg>
+      </tuv>
+    </tu>
+
+    <!-- Additional entries can go here -->
+
+  </body>
+</tmx>

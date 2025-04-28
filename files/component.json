@@ -1,0 +1,8 @@
+{
+	"name": "Flot你好",
+	"version": "你好，这是文本翻译",
+	"main": "jquery.flot.js",
+	"dependencies": {
+		"jquery": ">= 1.2.6"
+	}
+}

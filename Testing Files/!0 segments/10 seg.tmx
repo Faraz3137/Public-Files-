@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="MyTranslationTool" creationtoolversion="1.0" segtype="sentence" o-tmf="tmx" adminlang="en-US" srclang="en-US" datatype="plaintext"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Segment 2:</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجزء الثاني:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the fiery self-reflection, generals of ambition and procrastination strategize, with ambition in the armour of determination clashing with the elusive tactics of procrastination, leaving the battlefield of the mind in a state of perpetual uncertainty.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Nell'ardente auto-riflessione, i generali dell'ambizione e della procrastinazione strategizzano, con l'ambizione nell'armatura della determinazione che si scontra con le tattiche sfuggenti della procrastinazione, lasciando il campo di battaglia della mente in uno stato di perpetua incertezza.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في التأمل الذاتي الناري، يضع جنرالات الطموح والتسويف الاستراتيجيات، حيث يصطدم الطموح في درع التصميم مع تكتيكات التسويف المراوغة، تاركين ساحة معركة العقل في حالة من عدم اليقين الدائم.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>在激烈的自我反省中，野心和拖延的将军们制定战略，以决心为盔甲的野心与拖延的难以捉摸的战术发生冲突，使思想的战场处于永远的不确定状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Avoid over truncating or severely reducing reading speed in order to include both dialogue</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>避免过度截断或严重降低阅读速度，以便同时包含对话</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Evitare di troncare o ridurre drasticamente la velocità di lettura per includere entrambi i dialoghi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the quiet recesses of the mind, a war was brewing—a silent battle fought on the landscapes of thoughts and emotions.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في أعماق العقل الهادئة كانت هناك حرب تختمر - معركة صامتة تدور رحاها على مناظر الأفكار والعواطف.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the ensuing silence, the mind becomes a transformed battlefield—a landscape scarred by the echoes of internal struggles, testifying to the resilience of the human spirit in navigating the complexities of the psyche.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Nel silenzio che ne deriva, la mente diventa un campo di battaglia trasformato, un paesaggio segnato dagli echi delle lotte interne, che testimoniano la resilienza dello spirito umano nel navigare le complessità della psiche.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>وفي الصمت الذي يعقب ذلك، يصبح العقل ساحة معركة متغيرة - مشهد مشوه بأصداء الصراعات الداخلية، يشهد على مرونة الروح البشرية في التعامل مع تعقيدات النفس.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>在随后的沉默中，心灵变成了一个战场——一片被内心斗争的回声所伤痕累累的景观，证明了人类精神在驾驭心理复杂性时的韧性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The fields of anxiety trembled as doubt-laden cannons roared, sending tremors through the valleys of confidence.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>ارتجفت حقول القلق عندما زأرت المدافع المحملة بالشكوك، فأرسلت الهزات عبر وديان الثقة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Amid the chaos, the diplomacy of reason and emotion negotiates in the war room of consciousness, their debates echoing in the chambers of rationality, striving to find a ceasefire amidst the din of internal discord.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>وفي خضم الفوضى، تتفاوض دبلوماسية العقل والعاطفة في غرفة حرب الوعي، ويتردد صدى مناقشاتهما في غرف العقلانية، سعياً إلى إيجاد وقف لإطلاق النار وسط ضجيج الخلاف الداخلي.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>混乱之中，理性与情感的外交在意识的作战室中进行谈判，它们的争论在理性的密室中回荡，力图在内部纷争的喧嚣中寻求停火。</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>In mezzo al caos, la diplomazia della ragione e dell'emozione negozia nella stanza di guerra della coscienza, i loro dibattiti riecheggiano nelle camere della razionalità, cercando di trovare un cessate il fuoco in mezzo al frastuono della discordia interna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>p.m.- post meridian</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>下午-午后</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>p.m.- post meridiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the word “black” appears in reference to someone’s race or ethnicity, capitalize it as Black.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Quando la parola "nero" appare in riferimento alla razza o all'etnia di qualcuno, capitalizzala come nero.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>当“black”一词用于指代某人的种族或民族时，将其大写为Black。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Segment 3:</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجزء الثالث:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A squadron of Creativity soared above, dropping bombs of inspiration on the desolate fields of stagnation.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>سرب من الإبداع ارتفع في السماء، وألقى قنابل الإلهام على حقول الركود المقفرة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The soldiers, memories and fears, gathered on the edges, preparing for an internal clash.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجنود، الذكريات والمخاوف، تجمعوا على الحواف، استعدادا لصدام داخلي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ambition, clad in armor of determination, clashed against Procrastination's elusive tactics, leaving the mind's battleground in a perpetual state of uncertainty.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الطموح، الذي يرتدي درع التصميم، اصطدم بتكتيكات التسويف المراوغة، تاركًا ساحة المعركة للعقل في حالة دائمة من عدم اليقين.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A squadron of creativity soars overhead, dropping bombs of inspiration onto the desolate lands of stagnation, Imagination bursts forth, painting the sky with vibrant colors of possibility.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Uno squadrone di creatività vola in alto, sganciando bombe di ispirazione sulle terre desolate della stagnazione, l'immaginazione irrompe, dipingendo il cielo con colori vibranti di possibilità.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>创造力在头顶翱翔，将灵感的炸弹投向停滞不前的荒凉土地，想象力迸发，将天空绘成充满可能性的鲜艳色彩。</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>سرب من الإبداع يحلق في السماء، ويسقط قنابل الإلهام على الأراضي القاحلة الراكدة، وينفجر الخيال، ويرسم السماء بألوان نابضة بالحياة من الإمكانيات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Section I Synchronization             Technical Information</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>第一节 同步技术信息</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Sezione I Informazioni tecniche di sincronizzazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the civil war rages on, the weary soul seeks refuge in the fortress of reflection, alone in the quiet aftermath, the soul contemplates the cost of the battle and the scars etched into the fabric of life.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Mentre la guerra civile infuria, l'anima stanca cerca rifugio nella fortezza della riflessione, sola nel quieto dopoguerra, l'anima contempla il costo della battaglia e le cicatrici incise nel tessuto della vita.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>随着内战的肆虐，疲惫的灵魂在反思的堡垒中寻求庇护，在寂静的战后，独自一人，灵魂思考着战争的代价和刻在生活结构中的伤痕。</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>مع استمرار الحرب الأهلية، تبحث الروح المتعبة عن ملجأ في حصن التأمل، وحدها في أعقاب الحرب الهادئة، تتأمل الروح تكلفة المعركة والندوب المحفورة في نسيج الحياة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spell out words/phrases that do not include actual numbers: half past, quarter of, midnight, noon</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>拼出不包含实际数字的单词/短语：半点、一刻、午夜、中午</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Scrivi parole/frasi che non includono i numeri effettivi: mezzo passato, quarto di, mezzanotte, mezzogiorno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yet, the shadows of the past linger, casting a long and unforgettable presence, The scars of failed battles appear as unforgettable memories, each a ghostly reminder of wounds yet to heal.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>ومع ذلك، فإن ظلال الماضي لا تزال باقية، وتلقي بحضور طويل لا ينسى، وتظهر ندوب المعارك الفاشلة كذكريات لا تُنسى، كل منها بمثابة تذكير شبحي للجروح التي لم تلتئم بعد.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Eppure, le ombre del passato indugiano, proiettando una presenza lunga e indimenticabile, le cicatrici di battaglie fallite appaiono come ricordi indimenticabili, ognuno un ricordo spettrale di ferite ancora da guarire.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，过去的阴影依然存在，留下长久而难以忘怀的存在，失败战争的伤痕成为难以忘怀的回忆，每一个都幽灵般地提醒着尚未愈合的伤口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Segment 5:</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجزء الخامس:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>p.m.-下午</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>p.m.-下午</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>p.m.-Leggi tutto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Segment 1:</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجزء الأول:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The battleground's air was thick with the smoke of indecision as the infantry of Courage charged against the barricades of Fear.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>كان هواء ساحة المعركة مليئًا بدخان التردد بينما كانت قوات المشاة الشجاعة تهاجم حواجز الخوف.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Minimum duration:</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>最短持续时间：</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Durata minima:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only italicize titles, not names (e.g. the title of a book but not the name of a ship)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>仅斜体显示标题，而不是名称（例如，书名而不是船名）</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Solo i titoli in corsivo, non i nomi (ad esempio il titolo di un libro, ma non il nome di una nave)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This document covers four sections to elaborate the language specific requirements for US English.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>本文件涵盖四个部分，详细说明美国英语的具体语言要求。</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Questo documento copre quattro sezioni per elaborare i requisiti linguistici specifici per l'inglese degli Stati Uniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The explosions of imagination burst forth, painting the skies with the vibrant hues of possibility.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>تنفجر انفجارات الخيال، فترسم السماء بألوان نابضة بالحياة من الإمكانيات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jennifer Lopez) do not need to have them added.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>詹妮弗·洛佩兹 (Jennifer Lopez) 等名人则不需要添加。</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Jennifer Lopez) non hanno bisogno di averli aggiunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Optimal charcs/sec - 8 characters per second (cps)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>最佳字符/秒 - 每秒 8 个字符 (cps)</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Caratteri/sec ottimali - 8 caratteri al secondo (cps)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the war-torn landscapes of self-reflection, the generals of Ambition and Procrastination strategized their moves.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في مشهد التأمل الذاتي الذي مزقته الحرب، كان جنرالات الطموح والتسويف يخططون لتحركاتهم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The echoes of the internal struggles lingered</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Gli echi delle lotte interne persistevano</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg/>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Section II Common Guidelines         Line Treatment</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>第二部分 线路处理通用指南</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Sezione II Linee guida comuni Linea di trattamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the quiet depths of the soul, a war is brewing—a silent battle fought in the landscapes of thought and emotion, where soldiers, memories, and fears gather at the edges, preparing for internal conflict.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>في أعماق الروح الهادئة، تشتعل حرب - معركة صامتة تدور رحاها في مناظر الفكر والعاطفة، حيث يتجمع الجنود والذكريات والمخاوف على الحواف، استعدادًا للصراع الداخلي.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Nelle tranquille profondità dell'anima, una guerra sta fermentando, una battaglia silenziosa combattuta nei paesaggi del pensiero e dell'emozione, dove soldati, ricordi e paure si radunano ai margini, preparandosi per il conflitto interno.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>在灵魂的静谧深处，一场战争正在酝酿——一场在思想和情感的景观中进行的无声战斗，士兵、记忆和恐惧聚集在边缘，为内部冲突做准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first shots were fired when the echoes of past regrets collided with the hopes of the future.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>انطلقت الطلقات الأولى حين اصطدمت أصداء الندم في الماضي بآمال المستقبل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whispers of self-doubt echoed through the mental trenches, but the rallying cries of resilience pierced through the gloom.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>ترددت همسات الشك الذاتي عبر الخنادق العقلية، لكن صرخات الصمود اخترقت الظلام.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As the infantry of courage charges the barricades of fear, the air of the battlefield is filled with the smoke of hesitation, The whispers of self-doubt echo in the trenches of the mind, but the clarion call of resilience pierces through the gloom.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>عندما يهاجم مشاة الشجاعة حواجز الخوف، يمتلئ هواء ساحة المعركة بدخان التردد، وتتردد همسات الشك الذاتي في خنادق العقل، لكن نداء المرونة الواضح يخترق الظلام.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Mentre la fanteria del coraggio carica le barricate della paura, l'aria del campo di battaglia si riempie del fumo dell'esitazione, i sussurri dell'insicurezza echeggiano nelle trincee della mente, ma il forte richiamo della resilienza trafigge l'oscurità.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>当勇敢的步兵冲击恐惧的路障时，战场上弥漫着犹豫的硝烟，自我怀疑的低语在心灵的战壕中回荡，但坚韧的号角却刺穿了黑暗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The heart, torn between the ideologies of love and regret, finds itself in a dance of emotional conflict, with the tender caresses of love clashing against the relentless grasp of regret, turning the heart into a battleground of emotions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>心灵在爱与悔恨的意识形态之间徘徊，陷入情感冲突的舞蹈中，爱的温柔爱抚与悔恨的无情控制发生冲突，使心灵成为情感的战场。</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>يجد القلب، الممزق بين أيديولوجيات الحب والندم، نفسه في رقصة من الصراع العاطفي، حيث تتصادم مداعبات الحب الرقيقة مع قبضة الندم المستمرة، مما يحول القلب إلى ساحة معركة من العواطف.</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Il cuore, diviso tra le ideologie dell'amore e del rimpianto, si trova in una danza di conflitto emotivo, con le tenere carezze dell'amore che si scontrano con l'implacabile presa del rimpianto, trasformando il cuore in un campo di battaglia di emozioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the Icelandic name Þór appears, please transliterate as Thór (following relevant KNP and guidance about handling character names).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>如果出现冰岛名称 Þór，请将其音译为 Thór（遵循相关 KNP 和有关处理角色名称的指导）。</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Se appare il nome islandese Þór, si prega di traslitterare come Thór (seguendo il KNP pertinente e le linee guida sulla gestione dei nomi dei caratteri).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{:1:}Songs</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>{:1:}Canzoni</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>{:1:}歌曲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, the shadows of the past cast long, unsettling shades, the scars of lost battles appear as disturbing memories, each a ghostly reminder of wounds yet to heal.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，过去的阴影投下了令人不安的长长阴影，失败战争的伤痕成为令人不安的回忆，每一个都幽灵般地提醒着尚未愈合的伤口。</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Tuttavia, le ombre del passato proiettano ombre lunghe e inquietanti, le cicatrici delle battaglie perdute appaiono come ricordi inquietanti, ognuno un ricordo spettrale di ferite ancora da guarire.</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>ومع ذلك، فإن ظلال الماضي تلقي بظلال طويلة ومزعجة، وتظهر ندوب المعارك الخاسرة كذكريات مزعجة، كل منها بمثابة تذكير شبحي للجروح التي لم تلتئم بعد.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Juliet said, "Good night, good night!"</seg>
+      </tuv>
+      <tuv xml:lang="it-IT">
+        <seg>Giulietta disse: "Buona notte, buona notte!"</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>朱丽叶说：“晚安，晚安！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Segment 4:</seg>
+      </tuv>
+      <tuv xml:lang="ar-SA">
+        <seg>الجزء الرابع:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
